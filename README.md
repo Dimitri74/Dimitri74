@@ -20,7 +20,8 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
 
 <table>
   <tr>
-    <td align="center">
+    <!-- Backend -->
+    <td align="center" width="250">
       <b>🧩 Backend</b><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="40" />
@@ -28,26 +29,40 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" />
     </td>
-    <td align="center">
+
+    <!-- Databases -->
+    <td align="center" width="250">
       <b>🗄️ Databases</b><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
     </td>
+
+    <!-- Espaço vazio para manter uniformidade -->
+    <td align="center" width="250">
+      <b>⠀</b><br/>
+      <!-- vazio propositalmente -->
+    </td>
   </tr>
+
   <tr>
-    <td align="center">
+    <!-- Frontend -->
+    <td align="center" width="250">
       <b>🎨 Frontend</b><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
     </td>
-    <td align="center">
+
+    <!-- Cloud & DevOps -->
+    <td align="center" width="250">
       <b>☁️ Cloud & DevOps</b><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
     </td>
-    <td align="center">
+
+    <!-- Tools -->
+    <td align="center" width="250">
       <b>🛠️ Tools</b><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
@@ -56,6 +71,7 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
 </table>
 
 </div>
+
 ---
 
 <!-- Animações individuais -->
@@ -63,8 +79,6 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80" title="Java" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" title="AWS" />
 </p>
-
-
 
 ---
 
