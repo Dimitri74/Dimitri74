@@ -50,7 +50,6 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
       <b>🛠️ Tools</b><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
     </td>
     <td align="center" width="260">
       <b>🤖 AI / LLM</b><br/>
