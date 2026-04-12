@@ -16,51 +16,55 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
 
 ## 🚀 Tech Stack
 
-### 🧩 Backend
-<p align="center" style="margin: -5px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" />
-</p>
+<div align="center">
 
-### 🧠 AI & LLM Engineering
-<p align="center" style="margin: -5px 0;">
-  <!-- Claude Code -->
-  <img src="https://avatars.githubusercontent.com/u/139043702?s=200&v=4" width="45" title="Claude Code" />
-  <!-- LangChain4j -->
-  <img src="https://raw.githubusercontent.com/langchain4j/langchain4j/main/docs/static/img/logo.png" width="45" title="LangChain4j" />
-  <!-- GitHub Copilot -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Copilot.png" width="45" title="GitHub Copilot" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>🧩 Backend</b><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" />
+    </td>
+    <td align="center">
+      <b>🗄️ Databases</b><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+    </td>
+    <td align="center">
+      <b>🧠 AI & LLM</b><br/>
+      <!-- GitHub Copilot -->
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Copilot.png" width="70" title="GitHub Copilot" />
+      <!-- LangChain4j -->
+      <img src="https://raw.githubusercontent.com/langchain4j/langchain4j/main/docs/static/img/logo.png" width="70" title="LangChain4j" />
+      <!-- Claude Code (Anthropic avatar como referência) -->
+      <img src="https://avatars.githubusercontent.com/u/139043702" width="40" title="Claude Code" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🎨 Frontend</b><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+    </td>
+    <td align="center">
+      <b>☁️ Cloud & DevOps</b><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+    </td>
+    <td align="center">
+      <b>🛠️ Tools</b><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Databases
-<p align="center" style="margin: -5px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-</p>
-
-### 🎨 Frontend
-<p align="center" style="margin: -5px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center" style="margin: -5px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" />
-</p>
-
-### 🛠️ Tools
-<p align="center" style="margin: -5px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-</p>
-
+</div>
 ---
 
 <!-- Animações individuais -->
