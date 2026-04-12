@@ -54,9 +54,7 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
 <!-- Animações individuais -->
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="90" title="Java" />
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="90" title="Docker" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" title="AWS" />
-
 </p>
 
 
