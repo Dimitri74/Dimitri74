@@ -17,7 +17,7 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
 ## 🚀 Tech Stack
 
 ### 🧩 Backend
-<p align="center">
+<p align="center" style="margin-top: -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" />
@@ -25,26 +25,33 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="55" />
 </p>
 
+### 🗄️ Databases
+<p align="center" style="margin-top: -10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" />
+</p>
+
 ### 🎨 Frontend
-<p align="center">
+<p align="center" style="margin-top: -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" />
 </p>
 
 ### ☁️ Cloud & DevOps
-<p align="center">
+<p align="center" style="margin-top: -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" />
 </p>
 
-
-
 ### 🛠️ Tools
-<p align="center">
+<p align="center" style="margin-top: -10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" />
 </p>
+
+
 
 ---
 
