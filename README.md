@@ -34,23 +34,6 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
     </td>
- <td align="center">
-  <b>🧠 AI & LLM</b><br/>
-
-  <!-- GitHub Copilot (ícone oficial) -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Copilot.png"
-       width="55" title="GitHub Copilot" />
-
-  <!-- LangChain4j (logo oficial do repositório) -->
-  <img src="https://raw.githubusercontent.com/langchain4j/langchain4j/main/docs/static/img/logo.png"
-       width="55" title="LangChain4j" />
-
-  <!-- Claude Code (ícone oficial do VS Code Marketplace) -->
-  <img src="https://raw.githubusercontent.com/anthropics/claude-code/main/assets/icon.png"
-       width="55" title="Claude Code" />
-</td>
-
-
   </tr>
   <tr>
     <td align="center">
