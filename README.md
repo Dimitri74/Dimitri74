@@ -78,11 +78,11 @@ Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco
 
 ## 🌍 Multilingual Profile
 
-### 🇧🇷 Português
+### <img src="https://flagcdn.com/w40/br.png" width="28"> Português
 Analista Desenvolvedor Java Sênior com ampla experiência em sistemas corporativos, financeiros, bancários e governamentais. Atuo conectando sistemas legados a arquiteturas modernas, garantindo estabilidade e evolução tecnológica contínua.
 
-### 🇺🇸 English
+### <img src="https://flagcdn.com/w40/us.png" width="28"> English
 Senior Java Developer with extensive experience in corporate, financial, banking, and government systems. I specialize in bridging legacy systems with modern architectures, ensuring stability and driving modernization.
 
-### 🇮🇹 Italiano
+### <img src="https://flagcdn.com/w40/it.png" width="28"> Italiano
 Sviluppatore Java Senior con esperienza in sistemi aziendali, finanziari, bancari e governativi. Collego sistemi legacy a architetture moderne, garantendo stabilità e innovazione continua.
