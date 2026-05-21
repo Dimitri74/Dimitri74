@@ -3,13 +3,22 @@
 <h2 align="center">Hey, I'M Marcus Dimitri</h2>
 
 <p align="center">
-Analista Desenvolvedor Java Sênior com mais de 15 anos de experiência em sistemas corporativos, financeiros, bancários e governamentais.<br/>
+Senior Full Stack Java Engineer com mais de 15 anos de experiência no desenvolvimento de sistemas corporativos, financeiros e de alta complexidade.
+Especialista em arquiteturas modernas com Java , Quarkus, Spring Boot, microsserviços e soluções de Inteligência Artificial com RAG (Retrieval-Augmented Generation) utilizando LangChain4j.
+Principais competências:
+• Design e implementação de microsserviços cloud-native
+• Observabilidade completa (OpenTelemetry, Grafana, Jaeger)
+• Modernização de sistemas legados
+• Desenvolvimento frontend (Next.js, React, Angular) e mobile (Flutter)
+<br/>
+Destaque recente: Desenvolvedor do Florinda Eats 2.0 — plataforma completa de food delivery com microsserviços 
+Pós-graduando em Java Applied Engineering – UNIPDS, com foco em IA corporativa (Langchain4j, RAG, agentes inteligentes, MCP) e arquiteturas modernas (DDD, Clean Architecture, CQRS, Event Sourcing, observabilidade).
+<br/>
 Reconhecido por atuar como ponte entre sistemas legados e arquiteturas modernas, garantindo continuidade de operações críticas e conduzindo processos de atualização tecnológica.
 <br/><br/>
 Especialista em Java EE, JSF, EJB, servidores corporativos (WebSphere, Liberty, JBoss, WildFly) e bancos relacionais (Oracle, DB2, SQL Server).<br/>
 Experiência sólida em modernização de stack com Spring Boot, Quarkus, Angular, microsserviços, Kubernetes e CI/CD.
 <br/><br/>
-Pós-graduando em <strong>Java Applied Engineering – UNIPDS</strong>, com foco em IA corporativa (Langchain4j, RAG, agentes inteligentes, MCP) e arquiteturas modernas (DDD, Clean Architecture, CQRS, Event Sourcing, observabilidade).
 </p>
 
 ---
