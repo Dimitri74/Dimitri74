@@ -5,6 +5,7 @@
 <p align="center">
 Senior Full Stack Java Engineer com mais de 15 anos de experiência no desenvolvimento de sistemas corporativos, financeiros e de alta complexidade.
 Especialista em arquiteturas modernas com Java , Quarkus, Spring Boot, microsserviços e soluções de Inteligência Artificial com RAG (Retrieval-Augmented Generation) utilizando LangChain4j.
+ <br/> 
 Principais competências:
 • Design e implementação de microsserviços cloud-native
 • Observabilidade completa (OpenTelemetry, Grafana, Jaeger)
