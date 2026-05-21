@@ -1,32 +1,58 @@
-<h1 align="center">Java Engineer / Senior Java Developer</h1>
+# 👋 Marcus Dimitri
 
-<h2 align="center">Hey, I'M Marcus Dimitri</h2>
+**Senior Full Stack Java Engineer | Quarkus • RAG & AI | Spring • Microsserviços | 15+ anos de experiência**
 
-<p align="center">
-Senior Full Stack Java Engineer com mais de 15 anos de experiência no desenvolvimento de sistemas corporativos, financeiros e de alta complexidade.
- <br/><br/>
-Especialista em arquiteturas modernas com Java , Quarkus, Spring Boot, microsserviços e soluções de Inteligência Artificial com RAG (Retrieval-Augmented Generation) utilizando LangChain4j.
- <br/> 
-Principais competências:
-• Design e implementação de microsserviços cloud-native
-• Observabilidade completa (OpenTelemetry, Grafana, Jaeger)
-• Modernização de sistemas legados
-• Desenvolvimento frontend (Next.js, React, Angular) e mobile (Flutter)
-<br/><br/>
-Destaque recente: Desenvolvedor do Florinda Eats 2.0 — plataforma completa de food delivery com microsserviços 
-Pós-graduando em Java Applied Engineering – UNIPDS, com foco em IA corporativa (Langchain4j, RAG, agentes inteligentes, MCP) e arquiteturas modernas (DDD, Clean Architecture, CQRS, Event Sourcing, observabilidade).
-<br/><br/>
-Reconhecido por atuar como ponte entre sistemas legados e arquiteturas modernas, garantindo continuidade de operações críticas e conduzindo processos de atualização tecnológica.
-<br/><br/>
-Especialista em Java EE, JSF, EJB, servidores corporativos (WebSphere, Liberty, JBoss, WildFly) e bancos relacionais (Oracle, DB2, SQL Server).
- <br/>
-Experiência sólida em modernização de stack com Spring Boot, Quarkus, Angular, microsserviços, Kubernetes e CI/CD.
-<br/><br/>
-</p>
+Desenvolvedor Java Sênior especializado em arquiteturas modernas, microsserviços cloud-native e soluções de Inteligência Artificial com **RAG (Retrieval-Augmented Generation)**.
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tecnologias Principais
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+
+**Frontend & Mobile**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+**AI & DevOps**  
+RAG • LangChain4j • Kafka • PostgreSQL + PgVector • Docker • Kubernetes • OpenTelemetry
+
+---
+
+### 🔥 Projeto em Destaque
+
+**[🌟 Florinda Eats 2.0](https://github.com/Dimitri74/Portifolio-UNIPDS)**  
+Plataforma completa de Food Delivery com microsserviços Quarkus, agente IA com RAG, Next.js 15, Kafka SAGA e observabilidade avançada.
+
+→ [Ver Repositório](https://github.com/Dimitri74/Portifolio-UNIPDS)
+
+---
+
+### 📌 Projetos em Destaque
+
+- **[Portifolio-UNIPDS](https://github.com/Dimitri74/Portifolio-UNIPDS)** — Microsserviços + IA (Principal)
+- **[UNIPDS-Front-End-com-React](https://github.com/Dimitri74/UNIPDS-Front-End-com-React)** — Frontend Next.js/React
+- **[UNIPDS---MODULO-QUARKUS](https://github.com/Dimitri74/UNIPDS---MODULO-QUARKUS)** — Módulo Quarkus
+
+---
+
+### 📫 Contato
+
+- **LinkedIn**: [Marcus Dimitri](https://www.linkedin.com/in/marcus-dimitri-726ab168)
+- **Localização**: João Pessoa - PB, Brasil
+- Aberto a oportunidades e projetos desafiadores.
+
+---
+
+*Atualizado em Maio 2026*
+
+---
+
+## 🚀 Full Tech Stack
 
 <div align="center">
 <table>
