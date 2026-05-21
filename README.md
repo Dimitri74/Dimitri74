@@ -4,6 +4,7 @@
 
 <p align="center">
 Senior Full Stack Java Engineer com mais de 15 anos de experiência no desenvolvimento de sistemas corporativos, financeiros e de alta complexidade.
+ <br/><br/>
 Especialista em arquiteturas modernas com Java , Quarkus, Spring Boot, microsserviços e soluções de Inteligência Artificial com RAG (Retrieval-Augmented Generation) utilizando LangChain4j.
  <br/> 
 Principais competências:
@@ -11,13 +12,14 @@ Principais competências:
 • Observabilidade completa (OpenTelemetry, Grafana, Jaeger)
 • Modernização de sistemas legados
 • Desenvolvimento frontend (Next.js, React, Angular) e mobile (Flutter)
-<br/>
+<br/><br/>
 Destaque recente: Desenvolvedor do Florinda Eats 2.0 — plataforma completa de food delivery com microsserviços 
 Pós-graduando em Java Applied Engineering – UNIPDS, com foco em IA corporativa (Langchain4j, RAG, agentes inteligentes, MCP) e arquiteturas modernas (DDD, Clean Architecture, CQRS, Event Sourcing, observabilidade).
-<br/>
+<br/><br/>
 Reconhecido por atuar como ponte entre sistemas legados e arquiteturas modernas, garantindo continuidade de operações críticas e conduzindo processos de atualização tecnológica.
 <br/><br/>
-Especialista em Java EE, JSF, EJB, servidores corporativos (WebSphere, Liberty, JBoss, WildFly) e bancos relacionais (Oracle, DB2, SQL Server).<br/>
+Especialista em Java EE, JSF, EJB, servidores corporativos (WebSphere, Liberty, JBoss, WildFly) e bancos relacionais (Oracle, DB2, SQL Server).
+ <br/>
 Experiência sólida em modernização de stack com Spring Boot, Quarkus, Angular, microsserviços, Kubernetes e CI/CD.
 <br/><br/>
 </p>
