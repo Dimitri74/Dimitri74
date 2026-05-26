@@ -1,8 +1,9 @@
 # 👋 Marcus Dimitri
 
-**Senior Full Stack Java Engineer | Quarkus • RAG & AI | Spring • Microsserviços | 15+ anos de experiência**
+**Senior Full Stack Java Engineer | Quarkus | RAG & IA | Microsserviços | 15+ anos**
 
-Desenvolvedor Java Sênior especializado em arquiteturas modernas, microsserviços cloud-native e soluções de Inteligência Artificial com **RAG (Retrieval-Augmented Generation)**.
+Desenvolvedor Java Sênior apaixonado por arquiteturas modernas, soluções de Inteligência Artificial e modernização de sistemas.
+
 
 ---
 
@@ -23,20 +24,15 @@ RAG • LangChain4j • Kafka • PostgreSQL + PgVector • Docker • Kubernete
 
 ---
 
-### 🔥 Projeto em Destaque
+### 🚀 Projetos em Destaque
 
-**[🌟 Florinda Eats 2.0](https://github.com/Dimitri74/Portifolio-UNIPDS)**  
-Plataforma completa de Food Delivery com microsserviços Quarkus, agente IA com RAG, Next.js 15, Kafka SAGA e observabilidade avançada.
+**🌟 [Aether AI - Assistente com RAG](https://github.com/Dimitri74/Chatbot-AI--Empresarial)**  
+Chatbot empresarial inteligente usando **RAG (Retrieval-Augmented Generation)** com Quarkus + LangChain4j. Permite consultar documentos internos com respostas precisas e fontes citadas.
 
-→ [Ver Repositório](https://github.com/Dimitri74/Portifolio-UNIPDS)
+**🌟 [Florinda Eats 2.0](https://github.com/Dimitri74/Portifolio-UNIPDS)**  
+Plataforma completa de Food Delivery com microsserviços Quarkus, Next.js 15, Kafka SAGA, RAG e observabilidade avançada (Grafana + Jaeger).
 
----
 
-### 📌 Projetos em Destaque
-
-- **[Portifolio-UNIPDS](https://github.com/Dimitri74/Portifolio-UNIPDS)** — Microsserviços + IA (Principal)
-- **[UNIPDS-Front-End-com-React](https://github.com/Dimitri74/UNIPDS-Front-End-com-React)** — Frontend Next.js/React
-- **[UNIPDS---MODULO-QUARKUS](https://github.com/Dimitri74/UNIPDS---MODULO-QUARKUS)** — Módulo Quarkus
 
 ---
 
