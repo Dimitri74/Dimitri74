@@ -30,7 +30,7 @@ RAG • LangChain4j • Kafka • PostgreSQL + PgVector • Docker • Kubernete
 Chatbot empresarial inteligente usando **RAG (Retrieval-Augmented Generation)** com Quarkus + LangChain4j. Permite consultar documentos internos com respostas precisas e fontes citadas.
 
 **🌟 [Florinda Eats 2.0](https://github.com/Dimitri74/Portifolio-UNIPDS)**  
-Plataforma completa de Food Delivery com microsserviços Quarkus, Next.js 15, Kafka SAGA, RAG e observabilidade avançada (Grafana + Jaeger).
+Plataforma completa de Food Delivery com microsserviços Quarkus, Next.js 15,Flutter, Kafka SAGA, RAG e observabilidade avançada (Grafana + Jaeger).
 
 
 
